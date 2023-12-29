@@ -1,5 +1,5 @@
-[[home]]
+# About
 
-We are bob, kevin and stuart the minion!
+A tiny side project website made with docsify-this.
 
-![alt text](https://upload.wikimedia.org/wikipedia/en/7/7d/Minions_characters.png)
+created 29/12/2023
