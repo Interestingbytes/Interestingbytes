@@ -1,11 +1,10 @@
 
-# Home
+# Interesting Bytes - Home
 
-## this is the main page
+## A small site with useful information.
 ### where you can do stuff
-Like put a paragraph!!!
 
-How are you??
+
 
 | Links |
 |--|
