@@ -9,7 +9,7 @@ How are you??
 
 | #### Links |
 |--|
-| [[About.md]] |
+| [[About]] |
 
 
 
