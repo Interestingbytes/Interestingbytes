@@ -11,6 +11,7 @@
 | [[About]] |
 | [[Articles]] |
 | [[Comedy]] |
+| [[News]] |
 | [[recommended_sites]] |
 
 
