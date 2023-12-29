@@ -14,7 +14,7 @@
 | [[News]] |
 | [[recommended_sites]] |
 
-<div class="video-container-16by9"><https://youtu.be/QGjFaujny6E?>
+<div class="video-container-16by9"><[https://youtu.be/QGjFaujny6E?](https://www.youtube.com/watch?v=QnXCiGbrc1A)https://www.youtube.com/watch?v=QnXCiGbrc1A>
 bob
 
 
