@@ -10,6 +10,7 @@
 |--|
 | [[About]] |
 | [[Articles]] |
+| [[Comedy]] |
 | [[recommended_sites]] |
 
 
