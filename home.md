@@ -14,7 +14,8 @@
 | [[News]] |
 | [[recommended_sites]] |
 
-<div class="video-container-16by9"><https://youtu.be/QGjFaujny6E?feature=shared>
+<div class="video-container-16by9"><https://youtu.be/QGjFaujny6E?>
+
 
 
 
